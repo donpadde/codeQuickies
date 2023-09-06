@@ -2,7 +2,7 @@ import os
 import datetime
 
 # define the directory you want to search
-directory_path = "path/to/directory"
+directory_path = "path/to/directory/"
 
 # define the file where you want to write the folder names
 output_file = "folders.txt"
